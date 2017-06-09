@@ -1,6 +1,4 @@
 
-Project Title:  P2
-Yaojian Wang, w1274562
 —————————————————
 
 How to run
